@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning python.
 
 
+[![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsSahilXd)](https://github.com/anuraghazra/github-readme-stats)
